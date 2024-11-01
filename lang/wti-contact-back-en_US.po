@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WTI Contact Back\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-07 22:13+0530\n"
+"PO-Revision-Date: 2012-02-07 22:14+0530\n"
+"Last-Translator: Webtechideas <webtechideas@gmail.com>\n"
+"Language-Team: webtechideas <webtechideas@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;_e;__;gettext;gettext_noop\n"
+"X-Poedit-Basepath: D:\\Program Files\\xampp\\htdocs\\wordpress331\\wp-content\\plugins\\wti-contact-back\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: D:\\Program Files\\xampp\\htdocs\\wordpress331\\wp-content\\plugins\\wti-contact-back\n"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:92
+msgid "WTI Contact Back Options"
+msgstr "WTI Contact Back Options"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:97
+msgid "Configuration"
+msgstr "Configuration"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:103
+msgid "jQuery Framework"
+msgstr "jQuery Framework"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:106
+msgid "Enabled"
+msgstr "Enabled"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:107
+msgid "Disabled"
+msgstr "Disabled"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:109
+msgid "Disable it if you already have the jQuery framework enabled in your theme."
+msgstr "Disable it if you already have the jQuery framework enabled in your theme."
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:113
+msgid "Recepient Email Address"
+msgstr "Recepient Email Address"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:116
+msgid "Email id to receive the emails."
+msgstr "Email id to receive the emails."
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:122
+msgid "Save Options"
+msgstr "Save Options"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:123
+msgid "Reset Options"
+msgstr "Reset Options"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:135
+msgid "Are you sure to reset the options to default settings?"
+msgstr "Are you sure to reset the options to default settings?"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:160
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:183
+msgid "WTI Contact Back"
+msgstr "WTI Contact Back"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:196
+msgid "Title"
+msgstr "Title"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:213
+msgid "Your Name"
+msgstr "Your Name"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:217
+msgid "Your Email Address"
+msgstr "Your Email Address"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact-back.php:221
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact.php:22
+msgid "Contact me back"
+msgstr "Contact me back"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact.php:10
+msgid "Sorry, some error occured."
+msgstr "Sorry, some error occured."
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact.php:25
+msgid "Please enter your name"
+msgstr "Please enter your name"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact.php:31
+msgid "Please enter your email address"
+msgstr "Please enter your email address"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact.php:34
+msgid "Please enter valid email address"
+msgstr "Please enter valid email address"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact.php:44
+msgid "Hi,"
+msgstr "Hi,"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact.php:46
+msgid "Can you please contact me on"
+msgstr "Can you please contact me on"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact.php:47
+msgid "Thanks,"
+msgstr "Thanks,"
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact.php:53
+msgid "Mail sent successfully."
+msgstr "Mail sent successfully."
+
+#: D:\Program
+#: Files\xampp\htdocs\wordpress331\wp-content\plugins\wti-contact-back/wti-contact.php:55
+msgid "Mail could not be sent."
+msgstr "Mail could not be sent."
+
+#~ msgid "Contact Mode"
+#~ msgstr "Contact Mode"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Phone"
+#~ msgstr "Phone"
+
+#~ msgid "Contact Value"
+#~ msgstr "Contact Value"
+
+#~ msgid "Please select contact mode"
+#~ msgstr "Please select contact mode"
+
+#~ msgid "Please enter contact value"
+#~ msgstr "Please enter contact value"

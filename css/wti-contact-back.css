@@ -1,0 +1,9 @@
+div.wti-contact-back-success{
+	font-weight:bold;
+	color:#067919;
+}
+
+div.wti-contact-back-error{
+	font-weight:bold;
+	color:#CC0000;
+}
